@@ -106,4 +106,7 @@ Distributed under the MIT License. See 'LICENSE' for more information.
 ## Contact ##
 
 Michael Han <clayjar@gmail.com>
+
 Project Link: (https://github.com/clayjar/KoreanID3Fixer)
+
+Original project link: (https://github.com/mix1009/fix_id3_kr_encoding)
