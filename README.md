@@ -93,11 +93,11 @@ If you still see garbled Korean characters, please add other encodings and try a
 The main part of the code was originally forked from an old repository *[here](https://github.com/mix1009/fix_id3_kr_encoding)*. Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 코드의 주요 부분은 원래 *[박천구](https://github.com/mix1009/fix_id3_kr_encoding)*님의 repo에서 포크되었습니다. 기여는 오픈 소스 커뮤니티를 배우고, 영감을 주고, 창조할 수 있는 놀라운 장소로 만드는 것입니다. 귀하의 기여에 크게 감사드립니다.
 
-# Fork the Project
-# Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-# Commit your Changes (`git commit -m 'Add some AmazingFeature`)
-# Push to the Branch (`git push origin feature/AmazingFeature`)
-# Open a Pull Request
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ## License ##
 
